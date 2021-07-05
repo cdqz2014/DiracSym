@@ -1,0 +1,7 @@
+name = "DiracSym"
+uuid = "77fb271f-3ddd-4a01-be91-15470702e851"
+authors = ["Xiaodong Hu <xiaodong.hu@bc.edu>"]
+version = "0.1.0"
+
+[deps]
+SymbolicUtils = "d1185830-fcd6-423d-90d6-eec64667417b"
